@@ -1,4 +1,4 @@
-package demo.pattern.goffactorymethod;
+package demo.pattern.factorymethod;
 
 public class FoodGSTFactory extends GSTFactory {
 

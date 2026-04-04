@@ -1,11 +1,7 @@
-package demo.pattern.goffactorymethod;
+package demo.pattern.factorymethod;
 
 /**
- * 
- * Spring-managed registry factory
- * 
- * @Autowired private Map<String, GSTCalculator> calculators;
- * 
+ * A factory method creates one product and lets subclasses decide which one.
  */
 public class GstClient {
 

@@ -1,4 +1,4 @@
-package demo.pattern.goffactorymethod;
+package demo.pattern.factorymethod;
 
 public interface GstCalculator {
 
